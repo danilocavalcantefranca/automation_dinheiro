@@ -1,0 +1,6 @@
+mp-dinheiro:
+  adjustments: /ajuste
+cr:
+  get_reason: /jersey/seller/adjustment/types
+mp-alf:
+  post_return_jwt: /seguranca/interna

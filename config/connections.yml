@@ -1,0 +1,10 @@
+mp-dinheiro:
+  mongo-hlg:
+    name: 'mp-dinheiro'
+    replica_set: 
+    user: 
+    pass: 
+  adhlg:
+    user: 
+    password: 
+    connection_string: 

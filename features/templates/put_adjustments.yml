@@ -1,0 +1,22 @@
+{
+  "dataCriacao": "2018-10-02T18:58:52.728Z",
+  "dataLiberacao": "2018-10-02T18:58:52.728Z",
+  "id": 134,
+  "idBandeira": 3,
+  "idLojista": 3,
+  "motivoAjustes": 1,
+  "motivoAjustesDescricao": "Qualquer",
+  "motivoRecusa": [
+  {
+    "dataDaRecusa": "2018-10-02T18:58:52.728Z",
+    "mensagem": "Teste",
+    "statusNoMomentoDaRecusa": "Teste"
+  }
+  ],
+  "numeroPedido": 123456789,
+  "protocoloAtendimento": "Teste",
+  "qtdTentativasEnvioGetNet": 0,
+  "status": "NOVO",
+  "tipoAjuste": 1,
+  "valorAjuste": 100
+}
