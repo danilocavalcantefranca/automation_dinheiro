@@ -2,10 +2,10 @@ require "pry"
 require "rspec"
 require 'httparty'
 require 'yaml'
-require 'mongo'
-require 'byebug'
+#require 'mongo'
+#require 'byebug'
 require 'faker'
-require 'oci8'
+#require 'oci8'
 require_relative 'helpers.rb'
 include Helpers
 
