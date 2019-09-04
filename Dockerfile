@@ -10,4 +10,3 @@ RUN bundle
 ENV environment mp-dinheiro-hlg
 ENV tag "not @bug_prd"
 ENTRYPOINT cucumber -p ${environment} -t "${tag}"
-USER jenkins
